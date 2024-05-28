@@ -1,0 +1,28 @@
+.table {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+tr,
+th,
+td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.btn-outline-primary,
+.btn-primary {
+  width: 33px;
+}
+
+.confirm-button {
+  margin-bottom: 50px;
+  padding: 10px 0;
+  font-size: 24px;
+}
+
+@media (min-width: 576px) {
+  .table {
+    font-size: 22px;
+  }
+}

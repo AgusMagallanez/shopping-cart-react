@@ -1,0 +1,8 @@
+.cart-icon {
+  margin-right: 20px;
+}
+@media (max-width: 992px) {
+  .cart-icon {
+    display: none;
+  }
+}

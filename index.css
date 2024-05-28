@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(219, 224, 227);
+}
+
+.icons-eight {
+  font-size: 10px;
+  margin: 10px;
+  position: sticky;
+  bottom: 0;
+}
